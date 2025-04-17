@@ -6,7 +6,7 @@ export PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin
 
 #这里可替换为你自己的执行程序，其他代码无需更改
 
-APP_NAME=/www/wwwroot/nft/nft_web.jar
+APP_NAME=/www/wwwroot/nft/nft_jar/nft_web.jar
 #使用说明，用来提示输入参数
 usage() {
     echo "Usage: sh robotcenter.sh [start|stop|restart|status]"
